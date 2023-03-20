@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-size: 15px;    
+}
+
+p{
+    padding-left: 15px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+
+ol {
+    padding-left: 30px;
+    padding-bottom: 15px;
+    font-size: 18px;
+}
+.storeArea {    
+    font-size: 25px;
+    text-align: center;
+
+    height: fit-content;
+    width: fit-content;
+
+    margin: 20px 15px;
+    padding: 5px 5px;
+    border: 1px solid black;
+    background-color: rgb(151, 151, 245);
+
+    clear: left;
+}
+
+.sub-area {
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+section {
+    float:left;
+
+    width: 175px;
+    height: 175px;
+    margin: 30px;
+    padding: 10px 30px;
+    border: 1px solid black ;
+    background-color: aquamarine;
+}
+
+img {
+    max-width: 175px;
+    max-height: 175px;
+    float: left;
+
+    margin: 30px 30px;
+}
